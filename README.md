@@ -50,7 +50,7 @@ Run Locally
 
 1. Clone this repository:
    
-   git clone https://github.com/YOUR_USERNAME/kowshik-portfolio.git
+   git clone https://github.com/reddygaariabbayi/kowshik-portfolio.git
 
 2. Open the project folder:
    
@@ -60,12 +60,12 @@ Run Locally
 
 Live Portfolio
 
-Visit my portfolio: "View Portfolio" (https://YOUR_USERNAME.github.io/kowshik-portfolio/)
+Visit my portfolio: "View Portfolio" (https://reddygaariabbayi.github.io/kowshik-portfolio/)
 
 Connect With Me
 
-- GitHub: https://github.com/YOUR_USERNAME
-- LinkedIn: https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME/
+- GitHub: https://github.com/reddygaariabbayi
+- LinkedIn: https://www.linkedin.com/in/kowshik-reddy-dadani-874155303/
 
 License
 
