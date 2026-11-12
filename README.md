@@ -1,72 +1,33 @@
-# kowshik-portfolio
-Kowshik Reddy Dadani — Personal Portfolio
+# Kowshik Reddy - Portfolio
 
-Welcome to my personal portfolio! This website showcases my technical skills, projects, education, certifications, and professional background as an aspiring software developer.
+A responsive personal portfolio for **Venkata Kowshik Reddy Dadani**, highlighting current public projects, technical foundations and contact links.
 
-About Me
+## Featured projects
 
-I am Venkata Kowshik Reddy Dadani, a B.Tech Information Technology graduate interested in software development, problem-solving, and building reliable applications using Java and Python. I am also exploring Artificial Intelligence, Machine Learning, and Generative AI.
+- **MLYTAS - Multilingual Audio Summarization System** - A Next.js application that creates transcripts, summaries, topic segments, action items, key quotes and translations from audio. Its default mode uses on-device Whisper processing for short recordings.
+- **Home Bill Tracker** - A browser-based bill tracker that compares several forecasting approaches and saves user data locally.
+- **Review Sentiment Analysis** - An in-browser DistilBERT sentiment demo, with a documented Python training workflow.
 
-Portfolio Features
+## Built with
 
-- Home: Introduction and professional overview.
-- About: Background and career interests.
-- Skills: Technical skills and technologies.
-- Projects: Selected academic and personal projects.
-- Education: Academic qualifications.
-- Certifications: Relevant courses and certifications.
-- Resume: View or download my resume.
-- Contact: Connect with me professionally.
-- Responsive Design: Designed to work across different screen sizes.
+- Semantic HTML, CSS and JavaScript - no build step required
+- Responsive navigation, a light/dark theme switcher and reduced-motion support
+- Local portrait and résumé assets
 
-Technologies Used
+## Run locally
 
-- HTML5
-- CSS3
-- JavaScript
-- Git and GitHub
+The site is static. Open `index.html` directly in a browser, or serve this directory with any static web server.
 
-Featured Skills
+For example, with Python installed:
 
-- Programming: Java, Python
-- Database: SQL
-- Development: REST APIs, web development
-- Interests: Artificial Intelligence, Machine Learning, Generative AI
+```powershell
+python -m http.server 4173
+```
 
-Project Structure
+Then visit `http://localhost:4173`.
 
-Kowshik-Portfolio/
-├── index.html
-├── Kowshik_Resume.pdf
-├── package-lock.json
-├── images/
-│   ├── kowshik-600.webp
-│   └── kowshik.webp
-└── README.md
+## Links
 
-Note: Update this structure if your project contains additional files or folders.
-
-Run Locally
-
-1. Clone this repository:
-   
-   git clone https://github.com/kowshikreddy099/kowshik-portfolio.git
-
-2. Open the project folder:
-   
-   cd kowshik-portfolio
-
-3. Open "index.html" in your browser, or use the Live Server extension in VS Code.
-
-Live Portfolio
-
-Visit my portfolio: "View Portfolio" (https://kowshikreddy099.github.io/kowshik-portfolio/)
-
-Connect With Me
-
+- Portfolio: https://kowshikreddy099.github.io/kowshik-portfolio/
 - GitHub: https://github.com/kowshikreddy099
 - LinkedIn: https://www.linkedin.com/in/kowshik-reddy-dadani-874155303/
-
-License
-
-This project is intended to showcase my personal portfolio and development work.
